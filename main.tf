@@ -27,7 +27,7 @@ variable "aws_default_region" {
 }
 
 variable "num_webs" {
-  default = 2
+  default = 3
 }
 
 terraform {
